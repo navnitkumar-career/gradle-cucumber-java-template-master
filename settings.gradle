@@ -1,0 +1,4 @@
+rootProject.name = 'gradle-cucumberjvm-template'
+
+include 'bdd'
+include 'MyProject'
